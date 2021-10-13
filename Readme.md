@@ -2,9 +2,9 @@
 
 ## Ausgangslage
 
-![Die beschädigte Mauer zu Begin des Programms. Am linken Rand ist der Stapel mit den Ersatzteilen zu sehen.](docs/wall_start.png) 
-
-![Die Mauer, nachdem Bouncer sie repariert hat.](docs/wall_finished.png){ width=50% }
+| Die beschädigte Mauer und der Stapel mit Ersatzteilen. | Die Mauer nachdem sie repariert wurde |
+|:-----:|:-----:|
+| ![Die beschädigte Mauer zu Begin des Programms. Am linken Rand ist der Stapel mit den Ersatzteilen zu sehen.](./docs/wall_start.png) | ![Die Mauer, nachdem Bouncer sie repariert hat.](./docs/wall_finished.png) |
 
 
 ## Aufgabe
