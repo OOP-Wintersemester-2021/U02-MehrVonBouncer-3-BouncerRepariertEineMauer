@@ -1,4 +1,4 @@
-# U02-3 | Bouncer repariert eine Mauer
+# U06 | Bouncer repariert eine Mauer
 
 ## Ausgangslage
 
